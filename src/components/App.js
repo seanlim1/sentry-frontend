@@ -94,7 +94,7 @@ class App extends Component {
 
   checkout() {
     // Generate an error
-    this.myCodeIsMorePerfect();
+    this.myCodeIsMorePerfects();
 
     const order = {
       email: this.email,
